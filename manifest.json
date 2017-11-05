@@ -1,0 +1,7 @@
+{
+  "name": "PolyApp2",
+  "short_name": "PolyApp2",
+  "description": "Main App&#39;",
+  "start_url": "/",
+  "display": "standalone"
+}
